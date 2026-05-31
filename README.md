@@ -33,7 +33,7 @@ Personal skills map as AI-Audio/Video-Driver-developing Enigneer
 
 掌握 DMA-BUF / zero-copy buffer 机制，具备跨模块（ISP/codec/AI）共享buffer设计能力
 
-熟练使用 FFmpeg / GStreamer / MPP 构建音视频采集、编码、推流系统
+使用 FFmpeg / GStreamer / MPP 构建音视频采集、编码、推流系统
 
 深入理解 H.264 / H.265 编码链路（GOP / B-frame / latency tradeoff）
 
